@@ -3,7 +3,7 @@ import Nav from "./components/pages/Nav.jsx";
 import Hero from "./components/pages/Hero.jsx";
 import Short from "./components/pages/Short.jsx";
 import Body from "./components/pages/Body.jsx";
-import BodyBottom from "./components/pages/BodyBottom";
+import BodyBottom from "./components/pages/BodyBottom.jsx";
 import Footer from "./components/pages/Footer.jsx";
 
 function App() {
